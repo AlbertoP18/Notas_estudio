@@ -13,12 +13,7 @@ Sección enfocada en inspección de cambios, comparación entre ramas/commits y 
 
 ---
 
-## Ver cambios desde la última confirmación (commit actual sin confirmar)
-
-```bash
-git diff
-
-GIT — CONSULTA, COMPARACIÓN Y COPIA DE ARCHIVOS
+## GIT — CONSULTA, COMPARACIÓN Y COPIA DE ARCHIVOS
 Ver cambios desde la última confirmación
 
 ```bash
